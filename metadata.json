@@ -1,0 +1,6 @@
+{
+  "name": "School Management & AI Automation System",
+  "description": "A production-grade, scalable school management platform with role-based access, academic administration, student & teacher profiles, attendance, fees, and automation infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
